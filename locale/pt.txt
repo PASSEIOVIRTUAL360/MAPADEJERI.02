@@ -1,0 +1,51 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_97455FE4_9961_A489_41D8_21D29069E413.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_94CEA6E1_9962_E48B_41A4_41A65B9D65E0.source = https://api.whatsapp.com/send/?phone=5548984325921
+LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/LikeStartDoing
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_9D62E150_BB35_E9D0_41E3_B6D3E966219D.source = https://www.instagram.com/likestartdoing/
+LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://www.startdoing.com.br/
+LinkBehaviour_363F064C_C521_A2CE_41B6_71367E0A1E62.source = https://www.startdoing.com.br/
+LinkBehaviour_6F772275_70C9_09AC_41DA_FC1732F8B936.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg
+LinkBehaviour_667A7A6D_70C9_19BC_41D8_F139152F700E.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg/videos
+
+## Media
+
+### Title
+panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2.label = 1661440375138
+panorama_DCD8ADE9_D7FD_DC91_4197_B724923EBAA8.label = 1661440375148
+panorama_DCD8CC21_D7FD_E38E_41D7_56512367A56B.label = 1661440375162
+panorama_DCD59B80_D7FD_E48F_41DD_BBFB593811FC.label = 1661440375173
+panorama_DCD52974_D7FD_A476_41D7_356C8D8D9D9B.label = 1661440375189
+panorama_DCD5F5E3_D7FD_AC91_41DF_152387FC77D7.label = 1661440375205
+panorama_DCD5E20D_D7FE_6791_41DF_C3EE7888A522.label = 1661440375217
+panorama_DCD5DE13_D7FE_7FB2_41D5_D9E122F1E348.label = Centro250m
+panorama_DCD5FC25_D7FE_6396_41E4_0E5CEB972B01.label = Centro500m
+panorama_DCD5590B_D7FE_A591_41DE_E82F038B79D0.label = Pedra250m
+panorama_DCD50648_D7FE_AF9E_41CC_171F039BAFEE.label = Pedra500m
+panorama_DCD6A449_D7FE_E39E_41CB_E2A58FF38B23.label = Serrote250m
+panorama_DCD50051_D7FE_E38E_41CE_954BC724C918.label = Serrote500m
+
+## Skin
+
+### Image
+Image_1646ACB0_C561_A655_41E0_86B632FD3D0A.url = skin/Image_1646ACB0_C561_A655_41E0_86B632FD3D0A_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_mobile_pt.png
+Image_24C775DA_04F6_37A1_4180_D80ED41939F9.url = skin/Image_24C775DA_04F6_37A1_4180_D80ED41939F9_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_mobile_pt.png
+Image_4B796E6E_054E_F561_4174_FDFB6E8DF664.url = skin/Image_4B796E6E_054E_F561_4174_FDFB6E8DF664_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_mobile_pt.png
+Image_74B2519C_057D_EFA1_4189_30B4540E35EA.url = skin/Image_74B2519C_057D_EFA1_4189_30B4540E35EA_pt.png
+Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9.url = skin/Image_D5B0B51A_C521_A991_41E8_7842D66BA7E9_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MAPA DE JERI
