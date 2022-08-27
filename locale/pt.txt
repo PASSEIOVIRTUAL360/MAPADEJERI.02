@@ -14,7 +14,23 @@ LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://www.startdoi
 LinkBehaviour_6F772275_70C9_09AC_41DA_FC1732F8B936.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg
 LinkBehaviour_667A7A6D_70C9_19BC_41D8_F139152F700E.source = https://www.youtube.com/channel/UCyO8alWpg7e5juZpCkZpDCg/videos
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_FA106491_DD88_7BBA_41DC_B75BCE81B489.text =  DUNAS
+HotspotPanoramaOverlayTextImage_FAA0E674_DD89_E77A_41E4_6F2D368B4080.text =  DUNAS
+HotspotPanoramaOverlayTextImage_FF97D4A6_DDB8_1B99_41D5_75F461DE90D1.text = CAIPIRINHAS
+
 ## Media
+
+### Audio
+audiores_F1A1121A_DD88_3EA9_41C5_DE8049F5EF97.mp3Url = media/audio_C05D1C9E_DDB8_6BA6_41EB_3E0F53543467_pt.mp3
+audiores_F1A1121A_DD88_3EA9_41C5_DE8049F5EF97.oggUrl = media/audio_C05D1C9E_DDB8_6BA6_41EB_3E0F53543467_pt.ogg
+
+### Image
+imlevel_F43B6F71_DD88_257D_41D2_4036E216E77D.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_ol9jstk0_pt.png
+imlevel_F4386F57_DD88_26A6_41B1_4AA5D4D8086A.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_r1lwbg6b_pt.png
+imlevel_F43A2F8C_DD88_25AA_41D3_B120715C8D8F.url = media/panorama_DCD8CC21_D7FD_E38E_41D7_56512367A56B_HS_x35ffs6h_pt.png
 
 ### Title
 panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2.label = 1661440375138
