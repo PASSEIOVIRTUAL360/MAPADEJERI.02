@@ -1,23 +1,35 @@
 #: locale=pt
 
+## Action
+
+### URL
+WebFrame_48F2C11E_7A8E_2BFF_41D7_48BE114D891B.url = https://goo.gl/maps/nEmUC46P8aCxXUx66
+WebFrame_56B6A0C7_7ABA_EA4C_41B8_39AE8DF02F7F.url = https://goo.gl/maps/pq4nQ2a4Prkf5Qsy9
+WebFrame_5419D149_7A8A_2A44_41D6_1A6C923AE059.url = https://goo.gl/maps/pq4nQ2a4Prkf5Qsy9
+
 ## Hotspot
 
 ### Text
-HotspotPanoramaOverlayTextImage_FAA0E674_DD89_E77A_41E4_6F2D368B4080.text =  DUNAS
 HotspotPanoramaOverlayTextImage_33AB88AE_7AE6_6F0E_41C8_9A410D1D3053.text =  DUNAS
+HotspotPanoramaOverlayTextImage_FAA0E674_DD89_E77A_41E4_6F2D368B4080.text =  DUNAS
 HotspotPanoramaOverlayTextImage_FF97D4A6_DDB8_1B99_41D5_75F461DE90D1.text = CAIPIRINHAS
-HotspotPanoramaOverlayTextImage_1983A5C7_7A26_617E_41D7_63CBB58CFBDB.text = PEDRA FURADA \
+HotspotPanoramaOverlayTextImage_FA106491_DD88_7BBA_41DC_B75BCE81B489.text = PEDRA FURADA \
 .
 HotspotPanoramaOverlayTextImage_1DD16CA9_7A63_A735_41C7_8C12F3E62CEA.text = PEDRA FURADA \
 .
-HotspotPanoramaOverlayTextImage_FA106491_DD88_7BBA_41DC_B75BCE81B489.text = PEDRA FURADA \
+HotspotPanoramaOverlayTextImage_1F6D1D2F_7A62_E10E_41D5_26FD239E629B.text = PEDRA FURADA \
 .
 HotspotPanoramaOverlayTextImage_1D508EEA_7A62_6336_41D8_2E63C2F66242.text = PEDRA FURADA \
 .
-HotspotPanoramaOverlayTextImage_1F6D1D2F_7A62_E10E_41D5_26FD239E629B.text = PEDRA FURADA \
+HotspotPanoramaOverlayTextImage_1983A5C7_7A26_617E_41D7_63CBB58CFBDB.text = PEDRA FURADA \
 .
-HotspotPanoramaOverlayTextImage_18D5AF4A_7A21_E176_41C4_57CE3A6C9DE7.text = PRAÇA \
+HotspotPanoramaOverlayTextImage_5613DDF0_7ABA_FA43_41B9_DB6351AC3334.text = PRAÇA \
 .
+HotspotPanoramaOverlayTextImage_55CF4D7D_7A86_FA3D_4199_B9A088F14E9D.text = Pousada Villa Beija-Flor \
+
+HotspotPanoramaOverlayTextImage_18D5AF4A_7A21_E176_41C4_57CE3A6C9DE7.text = RONCO DO MAR \
+ \
+
 
 ## Media
 
@@ -28,10 +40,12 @@ audiores_F1A1121A_DD88_3EA9_41C5_DE8049F5EF97.mp3Url = media/audio_C05D1C9E_DDB8
 audiores_F1A1121A_DD88_3EA9_41C5_DE8049F5EF97.oggUrl = media/audio_C05D1C9E_DDB8_6BA6_41EB_3E0F53543467_pt.ogg
 
 ### Image
+imlevel_4BBCA8A0_7A8E_5AC4_41D3_A688C5706DEB.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_btg3xkm8_pt.png
+imlevel_4BBC78B1_7A8E_5AC4_419E_73F42E23736A.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_go237oqr_pt.png
 imlevel_1C665187_7A26_E1FE_41D5_C28DF71300EB.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_jdavnv5h_pt.png
 imlevel_1A0EA993_7A61_E116_4174_665E5B11435F.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_ol9jstk0_pt.png
 imlevel_1C604144_7A26_E173_41D9_2B56B510BB6B.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_r1lwbg6b_pt.png
-imlevel_1A0FE9AD_7A61_E132_41B7_0A30E5E3C2B1.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_zmpmt45g_pt.png
+imlevel_4BBF288C_7A8E_5ADC_41D2_D61F642A62BD.url = media/panorama_DB956ED4_D7FD_BCB7_41B3_000FB80446F2_HS_zmpmt45g_pt.png
 imlevel_1E2E91A2_7A6F_E137_41D2_4BB9E1D92485.url = media/panorama_DCD5590B_D7FE_A591_41DE_E82F038B79D0_HS_9nu3z400_pt.png
 imlevel_1A101A0C_7A61_E2F2_4187_CE52F6B6B0D1.url = media/panorama_DCD5590B_D7FE_A591_41DE_E82F038B79D0_HS_bhalv1br_pt.png
 imlevel_1E2F417B_7A6F_E116_41D4_51145AE01A29.url = media/panorama_DCD5590B_D7FE_A591_41DE_E82F038B79D0_HS_eogd4pnm_pt.png
@@ -86,6 +100,18 @@ panorama_DCD6A449_D7FE_E39E_41CB_E2A58FF38B23.label = Serrote250m
 panorama_DCD50051_D7FE_E38E_41CE_954BC724C918.label = Serrote500m
 panorama_1FE66343_7A22_E176_41C0_666F65211BF7.label = pedra furada (22)
 panorama_27B0EE67_7A22_E33E_41D5_49009399083C.label = pedra furada (23)
+
+## Popup
+
+### Body
+htmlText_517466A2_7ABE_56C7_419E_097AEB07728F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_547AFF88_7A8A_36C3_41CE_F0320BCE01AC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_5407F149_7A8A_2A44_41DB_588C886FB8BC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_517426A2_7ABE_56C7_41A4_871095737C99.title = RONCO DO MAR
+window_541A714A_7A8A_2A44_41D9_3E0238017304.title = RONCO DO MAR
+window_5478FF88_7A8A_36C3_41D1_E40E0F5AB140.title = Villa Beija Flor Jeri
 
 ## Skin
 
