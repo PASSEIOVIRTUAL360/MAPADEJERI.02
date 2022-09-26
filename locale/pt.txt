@@ -4,8 +4,8 @@
 
 ### URL
 WebFrame_48F2C11E_7A8E_2BFF_41D7_48BE114D891B.url = https://goo.gl/maps/nEmUC46P8aCxXUx66
-WebFrame_56B6A0C7_7ABA_EA4C_41B8_39AE8DF02F7F.url = https://goo.gl/maps/pq4nQ2a4Prkf5Qsy9
-WebFrame_5419D149_7A8A_2A44_41D6_1A6C923AE059.url = https://goo.gl/maps/pq4nQ2a4Prkf5Qsy9
+PopupWebFrameBehaviour_4349DCCC_7A9A_DA43_41A5_A92AB99B230B.url = https://www.google.com/maps/embed?pb=!4v1664228076770!6m8!1m7!1sCAoSLEFGMVFpcE9OQW9yc25LcjJGRkhmYXY0dTktcVlDWGhpTjBSbHhhalJvR1g2!2m2!1d-2.794351042276034!2d-40.51661285152054!3f14.08335965486092!4f-0.08547610830032681!5f0.4000000000000002
+PopupWebFrameBehaviour_399A84D4_7AFA_2A4C_41B0_3A8BA974837D.url = https://www.google.com/maps/embed?pb=!4v1664228581880!6m8!1m7!1sCAoSLEFGMVFpcFAzZlFadUdNdEtJMHlCVERsMnlKWTJzNXo3ZUlaZmVfSnVFaWZ5!2m2!1d-2.794523235441968!2d-40.51368029411272!3f353.3974515932519!4f-0.07581027596017975!5f0.4000000000000002
 
 ## Hotspot
 
@@ -104,13 +104,9 @@ panorama_27B0EE67_7A22_E33E_41D5_49009399083C.label = pedra furada (23)
 ## Popup
 
 ### Body
-htmlText_517466A2_7ABE_56C7_419E_097AEB07728F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 htmlText_547AFF88_7A8A_36C3_41CE_F0320BCE01AC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-htmlText_5407F149_7A8A_2A44_41DB_588C886FB8BC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ### Title
-window_517426A2_7ABE_56C7_41A4_871095737C99.title = RONCO DO MAR
-window_541A714A_7A8A_2A44_41D9_3E0238017304.title = RONCO DO MAR
 window_5478FF88_7A8A_36C3_41D1_E40E0F5AB140.title = Villa Beija Flor Jeri
 
 ## Skin
